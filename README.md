@@ -17,6 +17,7 @@ To develop a hand gesture recognition model using surface  EMG signals to contro
    ![Screenshot 2024-10-18 104502](https://github.com/user-attachments/assets/89bd53ae-ef76-4136-9b16-0d5e59d28ecb)
 
 ``Group CS6 :``
+
 Avula Veera Siva Reddy ​[BU21EECE1000393]
 
 Boya Rajesh ​[BU21EECE1000482]
