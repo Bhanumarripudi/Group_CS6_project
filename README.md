@@ -1,7 +1,7 @@
 
 ## **Project Overview**
 **Title:** Surface EMG-Based Hand Gesture Signal Classification Using CNN for Control of Software Robot  
-**Cluster Name:** AI/ML (Group: Cs-6)  
+**Cluster Name:** CS (Group: Cs-6)  
 **Project Supervisor:** Dr. Jaya Prakash Sahoo  
 **Project Coordinator:** Dr. Ambar Bajpai
 
