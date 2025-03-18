@@ -2,17 +2,23 @@
 
 ``Objective:`` 
 
-To develop a hand gesture recognition model using surface  EMG signals to control a software designed robot.
+* To develop a hand gesture recognition model using surface EMG signals to control a software designed robot.​
+
+* Hand gestures through surface electromyography (sEMG) signals, which are then converted into commands for the control of robots. 
 
 ``Main Goals :``​
 
-1) Design an accurate hand gesture recognition model using automatic feature extraction and classification technique like  CNN with attention mechanism.​
-2) Develop a software robot whose moment will be controlled using developed hand gesture recognition model.​
+1.Develop a Robot Gesture Classification System:​
 
-``Additional Goals:``​
-1) To create a dataset using surface EMG sensor.​
+* Capture and process Surface EMG signals to classify hand gestures with high accuracy.​
 
-2) Analysis of hand gesture model performance with the proposed method. ​
+* Implement signal processing techniques to filter noise and extract meaningful features from EMG data.​
+
+2.Control a Software Robot Using Gestures:​
+
+* Translate classified gestures into robot movements (e.g., Forward, Backward, Left, Right).​
+
+* Ensure real-time and reliable control of the robot via Wi-Fi communication
 
    ![Screenshot 2024-10-18 104502](https://github.com/user-attachments/assets/89bd53ae-ef76-4136-9b16-0d5e59d28ecb)
 
